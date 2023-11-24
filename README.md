@@ -7,3 +7,6 @@ estratégia altamente eficaz para elevar a experiência do cliente e a qualidade
 à saúde. Além disso, essa iniciativa pode reforçar a competitividade das farmácias locais em 
 relação às redes de médio porte, ao mesmo tempo em que fideliza os clientes, estabelecendo 
 laços mais duradouros com a comunidade
+
+- App criando para o curso da faculdade de ADS, 
+com o nome da disciplina - Laboratório de Projetos Inovadores.
