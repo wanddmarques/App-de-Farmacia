@@ -1,5 +1,5 @@
 # App-de-Farmacia
-## - Projeto - Farmácia Conectada: Transformando a experiência do cliente com um aplicativo integrado de gestão de saúde.
+## - Projeto - Farmácia Conectada: Transformando a experiência do cliente com um aplicativo integrado na gestão de saúde.
 ### ![Desktop Screenshot 2023 11 24 - 18 23 48 66](https://github.com/wanddmarques/App-de-Farmacia/assets/69114988/69ad533f-52cf-4de6-8a7b-51093cb2307c)
 - A criação de um aplicativo inovador que integra e aprimora esses serviços pode ser uma 
 estratégia altamente eficaz para elevar a experiência do cliente e a qualidade da assistência 
